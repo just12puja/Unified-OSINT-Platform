@@ -1,0 +1,17 @@
+# Environment variables
+# Environment variables
+.env
+social_intelligence/.env
+!.env.example
+
+
+# Python
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# OS / Editor
+.vscode/
+.DS_Store

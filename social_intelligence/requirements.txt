@@ -1,0 +1,6 @@
+streamlit
+apify-client
+python-dotenv
+networkx
+pyvis
+requests

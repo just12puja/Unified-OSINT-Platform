@@ -1,0 +1,98 @@
+{
+  "google_analytics": {
+    "company": "Google",
+    "category": "Analytics",
+    "keywords": ["gtag(", "ga(", "dataLayer.push"],
+    "description": "Measures how users visit and interact with the website."
+  },
+  "google_ads": {
+    "company": "Google",
+    "category": "Advertising",
+    "keywords": ["adsbygoogle", "googlesyndication"],
+    "description": "Tracks user behavior to show targeted advertisements."
+  },
+  "doubleclick": {
+    "company": "Google",
+    "category": "Advertising",
+    "keywords": ["doubleclick"],
+    "description": "Cross-site advertising and ad performance tracking platform."
+  },
+  "facebook_pixel": {
+    "company": "Meta",
+    "category": "Advertising",
+    "keywords": ["fbq("],
+    "description": "Tracks user actions for personalized advertising on Facebook and Instagram."
+  },
+  "linkedin_insight": {
+    "company": "LinkedIn",
+    "category": "Advertising",
+    "keywords": ["linkedin", "insight"],
+    "description": "Measures LinkedIn ad conversions and audience insights."
+  },
+  "twitter_pixel": {
+    "company": "Twitter",
+    "category": "Advertising",
+    "keywords": ["twttr"],
+    "description": "Tracks engagement and conversions for Twitter ads."
+  },
+  "tiktok_pixel": {
+    "company": "TikTok",
+    "category": "Advertising",
+    "keywords": ["tiktok"],
+    "description": "Tracks user actions for TikTok advertising and profiling."
+  },
+  "taboola": {
+    "company": "Taboola",
+    "category": "Advertising",
+    "keywords": ["taboola"],
+    "description": "Recommends content and ads based on reading behavior."
+  },
+  "outbrain": {
+    "company": "Outbrain",
+    "category": "Advertising",
+    "keywords": ["outbrain"],
+    "description": "Tracks content engagement to suggest articles and ads."
+  },
+  "hotjar": {
+    "company": "Hotjar",
+    "category": "Session Replay",
+    "keywords": ["hotjar"],
+    "description": "Records clicks, scrolling, and user interactions."
+  },
+  "clarity": {
+    "company": "Microsoft",
+    "category": "Session Replay",
+    "keywords": ["clarity("],
+    "description": "Analyzes how users interact with pages using session recordings."
+  },
+  "quantcast": {
+    "company": "Quantcast",
+    "category": "Analytics",
+    "keywords": ["quantcast"],
+    "description": "Audience measurement and demographic analytics."
+  },
+  "cloudflare_analytics": {
+    "company": "Cloudflare",
+    "category": "Analytics",
+    "keywords": ["cloudflareinsights"],
+    "description": "Tracks website performance and traffic metrics."
+  },
+  "segment": {
+    "company": "Twilio",
+    "category": "Analytics",
+    "keywords": ["segment"],
+    "description": "Collects and routes user data to multiple analytics platforms."
+  },
+  "mixpanel": {
+    "company": "Mixpanel",
+    "category": "Analytics",
+    "keywords": ["mixpanel"],
+    "description": "Tracks user actions and engagement events."
+  },
+  "amplitude": {
+    "company": "Amplitude",
+    "category": "Analytics",
+    "keywords": ["amplitude"],
+    "description": "Analyzes user behavior and product usage patterns."
+  }
+}
