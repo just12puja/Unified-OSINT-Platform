@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+requests
+networkx
+pyvis
+beautifulsoup4
+selenium
+apify-client
+pillow
+opencv-python-headless
