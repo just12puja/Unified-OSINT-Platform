@@ -8,3 +8,4 @@ selenium
 apify-client
 pillow
 opencv-python-headless
+matplotlib
